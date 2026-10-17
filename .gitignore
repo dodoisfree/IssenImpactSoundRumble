@@ -1,0 +1,9 @@
+build/
+*.dll
+*.lib
+*.wav
+*.zip
+!IssenImpactSoundRumble-1.0.1.zip
+*.log
+STOP
+issen_impact_*.json
